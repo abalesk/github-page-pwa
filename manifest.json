@@ -1,0 +1,22 @@
+{
+    "name": "React PWA",
+    "short_name": "ReactPWA",
+    "description": "A simple React PWA example",
+    "scope": "/github-page-pwa/",
+    "start_url": "/github-page-pwa/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+      {
+        "src": "img/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
