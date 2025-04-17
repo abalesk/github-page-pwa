@@ -7,8 +7,8 @@ const CACHE_NAME = 'react-pwa-cache-v2';
 var urlsToCache = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/icon-128x128.png`,
-  `${GHPATH}/icon-512x512.png`
+  `${GHPATH}/img/icon-128x128.png`,
+  `${GHPATH}/img/icon-512x512.png`
 ]
 
 self.addEventListener('install', event => {
